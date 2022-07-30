@@ -27,5 +27,6 @@ Hi! This "Now" page is designed to share what I'm currently doing and working.
 - Settle down and adjust to life in NYC
 - Finding a healthy work-life balance routine
 - Exploring the city
+- Discovering new hobbies
 - Travel a bit (hopefully!)
 - Start playing badminton again
