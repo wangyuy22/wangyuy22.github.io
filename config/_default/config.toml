@@ -6,6 +6,8 @@ baseURL = "https://wangyuy22.github.io"
 defaultContentLanguage = "en"
 languageCode = "en"
 
+googleAnalytics = "G-Q4FG0SQFLW"
+
 enableRobotsTXT = true
 paginate = 10
 summaryLength = 0
